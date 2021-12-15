@@ -1,1 +1,1 @@
-# EPIC-ARCHERY-ST5
+# Project Template 26
